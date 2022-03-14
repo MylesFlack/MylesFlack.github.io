@@ -9,7 +9,9 @@ body {
   padding: 0;
   -webkit-font-smoothing: antialiased;
 }
-
+.hello{
+  top: 20rem;
+}
 .sidebar {
   position: absolute;
   width: 33.3333%;
@@ -61,7 +63,7 @@ body {
   color: black;
 }
 .topnav a.active {
-  background-color: #2196F3;
+  background-color: #45A29E;
   color: white;
 }
 /* Style for the search box */
@@ -156,7 +158,7 @@ body {
 
         .news .item .title {
             display: block;
-            color: #00853e;
+            color: #45A29E;
             font-weight: 700;
         }
 
@@ -185,7 +187,7 @@ body {
         }
 
         ::-webkit-scrollbar-thumb {
-            background: #00853e;
+            background: #45A29E;
             border-radius: 0;
         }
 
@@ -213,16 +215,15 @@ body {
         }
 
         .mapboxgl-popup-content h3 {
-            background: black;
+            background: #1F2833;
             color: #fff;
             margin: 0;
-            padding: 10px;
+            padding: 5px;
             border-radius: 3px 3px 0 0;
             font-weight: 700;
             margin-top: -15px;
         }
         .mapboxgl-popup-content h3:hover{
-            background: white;
             color: white;
         }
       

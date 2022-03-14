@@ -11,7 +11,7 @@
         "image": "no",
         "video": "yes",
         "description": "Flooding on Iowa St, Squalicum Creek Park, and Roeder Ave/Squalicum Way on November 15th, 2021.",
-        "link": "https://www.youtube.com/watch?v=mfgiRRat3Os&ab_channel=CityofBellingham%2CWashington"
+        "link": "https://www.youtube.com/embed/mfgiRRat3Os&ab_channel=CityofBellingham%2CWashington"
       },
       "geometry": {
         "type": "Point",
@@ -51,7 +51,7 @@
         "image": "no",
         "video": "yes",
         "description": "Footage of the nooksack river flooding",
-        "link": "https://www.youtube.com/watch?v=HkEqQ2JeHlE"
+        "link": "https://www.youtube.com/embed/HkEqQ2JeHlE"
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +111,7 @@
         "image": "no",
         "video": "yes",
         "description": "Video shows a car underwater as parts of Northwestern Washington state experience flooding. Video credit: Travis Janeway",
-        "link": "https://www.youtube.com/watch?v=mye9FSNw7Yo&ab_channel=FOX13Seattle"
+        "link": "https://www.youtube.com/embed/mye9FSNw7Yo&ab_channel=FOX13Seattle"
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +131,7 @@
         "image": "no",
         "video": "yes",
         "description": "Heavy rain and wind continues in the Pacific North West, Cars and gas stations under water in Bellingham. Over 6” of rain has fallen since Saturday wreaking havoc on the city and straining city and county workers who are out working the storm. A couple on Iowa’s street head into their business to assess the damage. Water up to 5’ deep and cars totally submerged. The wind coming in with this system could produce up to 55mph and down trees are likely. Most rivers will crest Tuesday afternoon",
-        "link": "https://www.youtube.com/watch?v=pdIvdT8Ucrk&ab_channel=LiveStormsMedia"
+        "link": "https://www.youtube.com/embed/pdIvdT8Ucrk&ab_channel=LiveStormsMedia"
       },
       "geometry": {
         "type": "Point",
@@ -251,7 +251,7 @@
         "image": "yes",
         "video": "no",
         "description": "Work continues on roads damaged during the November floods. Here's an update on repairs on South Pass, Birch Bay Lynden, and other roads that were affected:",
-        "link": "10\tTwitter\t1312022\t12:06 PM\tReparing Damage by Floods (verified)\tworkFlood.jpeg\tno\tWork continues on roads damaged during the November floods. Here's an update on repairs on South Pass, Birch Bay Lynden, and other roads that were affected:\tCoords\thttps://twitter.com/WhatcomCoPWA/status/1488242307686150148?cxt=HHwWiMC5lc2fpqcpAAAA\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        "link": "10\tTwitter\t1312022\t12:06 PM\tReparing Damage by Floods (verified)\tworkFlood.jpeg\tno\tWork continues on roads damaged during the November floods. Here's an update on repairs on South Pass, Birch Bay Lynden, and other roads that were affected:\tCoords\thttps://twitter.com/WhatcomCoPWA/status/1488242307686150148?cxt=HHwWiMC5lc2fpqcpAAAA"
       },
       "geometry": {
         "type": "Point",
@@ -391,7 +391,7 @@
         "image": "no",
         "video": "yes",
         "description": "A mudslide has closed all north bound lanes just south of Bellingham. 3 vehicles were involved with minor injuries. A wall of mud slid off the saturated hill side and took with it a big tree right onto the highway smashing into the car and trucks. Tow trucks were starting to remove the vehicles tonight. South of Lynden.. the Nooksack River overflowed the dikes and flood waters poured into local houses. Many rescues were done by boat as roads were closed. Some schools are closed in Whatcom and Skagit Counties due to flooding conditions. They are expected to crest sometime tomorrow. Officials will keep everyone updated once floodwaters recede",
-        "link": "https://www.youtube.com/watch?v=UB0E0RvCKx4&ab_channel=LiveStormsMedia"
+        "link": "https://www.youtube.com/embed/UB0E0RvCKx4&ab_channel=LiveStormsMedia"
       },
       "geometry": {
         "type": "Point",
