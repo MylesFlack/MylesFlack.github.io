@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/main.css">
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.css" rel="stylesheet">
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/axios/0.18.0/axios.js"></script>
+    <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.js"></script>
+    <link href="https://api.tiles.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.css" rel="stylesheet" />
+    <title>Internet Dashbord</title>
+    <style>
+        .map {
+            position: absolute;
+            left: 33.3333%;
+            width: 66.6666%;
+            top: 6.3rem;
+            bottom: 3.9rem;
+        }
+    
+    </style>
+</head>
+<body>
+    <!-- Header Section with search bar -->
+    <section class="fixed-header">
+        <div class="topnav">
+            <h3>Internet Dashboard: Flood Tracker</h3>
+            <nav>
+                <a class="active" href="index.html">Home</a>
+                <a href="about.html">About</a>
+                <input type="text" placeholder="Washington, USA...">
+            </nav>
+        </div>
+    </section>
+    <!-- <iframe width='480' height='290' scrolling='no' src='https://drive.google.com/uc?export=view&id=1ixbQLRWVDMUPCu-_ghEZPTE70epUdMg6' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
+    <div class="sidebar">
+        <div class="timeline">
+            <h1>Timeline</h1>
+        <!-- </div>
+        <div class="mapCol">
+            <div id="map"></div>
+            <div id="features"></div>
+        </div>
+        <script src="js/map.js"></script> -->
+        </div>
+        <div id="news" class="news"></div>
+    </div>
+    <div id="map" class="map"></div>
+
+
+    <!-- Footer Section -->
+    <section class="fixed-footer">
+        <div class="container">Copyright &copy; 2022 Internet Dashbord<br>
+            <script>
+                var date = document.lastModified;
+                document.write(date);
+            </script>
+        </div>
+    </section>
+    <script src="https://sheetdb.io/handlebars.js"></script>
+    <script src="js/map.js"></script>
+    <script src="js/timeline.js"></script>
+    <!-- <script src="js/header.js"></script> -->
+</body>
+
+</html>

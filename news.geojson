@@ -1,0 +1,505 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "publisher": "YT",
+        "date": 11152021,
+        "time": 1100,
+        "title": "Bellingham, Washington Flooding: November 15th, 2021",
+        "image": "no",
+        "video": "yes",
+        "description": "Flooding on Iowa St, Squalicum Creek Park, and Roeder Ave/Squalicum Way on November 15th, 2021.",
+        "link": "https://www.youtube.com/watch?v=mfgiRRat3Os&ab_channel=CityofBellingham%2CWashington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46444940567015,
+          48.75652827246622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "publisher": "News Article",
+        "date": 11162021,
+        "time": 1013,
+        "title": " i-5 closed routes still impacted ",
+        "image": "yes",
+        "video": "no",
+        "description": "BELLINGHAM, Wash. – Historic flooding has caused a host of issues for drivers over the past 48 hours and emergency officials are asking people to stay home if possible. ",
+        "link": "https://kgmi.com/news/007700-i-5-northbound-still-closed-at-nulle-rd-county-and-city-routes-still-impacted/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36707448959349,
+          48.64809411471749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "publisher": "YT",
+        "date": 11152021,
+        "time": 1040,
+        "title": "Nooksack River Flooding 11/15/2021",
+        "image": "no",
+        "video": "yes",
+        "description": "Footage of the nooksack river flooding",
+        "link": "https://www.youtube.com/watch?v=HkEqQ2JeHlE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.58742332458496,
+          48.84511833782007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "publisher": "News Article",
+        "date": 11282021,
+        "time": "0600",
+        "title": "6-year-old killed in collision after family forced to flee Merritt, B.C., due to flooding",
+        "image": "yes",
+        "video": "yes",
+        "description": "A mother from Merritt, B.C., is reeling from the death of her six-year-old daughter following a highway crash that occurred as the displaced family was travelling to find a safe haven from floods in the southern part of the province. ",
+        "link": "https://www.cbc.ca/news/canada/british-columbia/b-c-girl-killed-collision-highway-floods-1.6257724"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.77939987182617,
+          50.11067123910089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "publisher": "News Article",
+        "date": 11152021,
+        "time": 1013,
+        "title": "500 Whatcom County residents displaced after worst flooding in 31 years",
+        "image": "no",
+        "video": "yes",
+        "description": "SUMAS, Wash. — Emergency officials in Whatcom County called it the worst flooding since 1990, and more is still to come. Officials estimate more than 500 people have been displaced from their homes, especially in north Whatcom County. ",
+        "link": "https://www.king5.com/article/weather/weather-blog/sumas-flooding-atmospheric-river/281-e5823c49-4269-4145-ad4f-d219b40ba945"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34169006347656,
+          48.92182248836777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "publisher": "YT",
+        "date": 11152021,
+        "time": 1040,
+        "title": "Washington Flooding (car underwater)",
+        "image": "no",
+        "video": "yes",
+        "description": "Video shows a car underwater as parts of Northwestern Washington state experience flooding. Video credit: Travis Janeway",
+        "link": "https://www.youtube.com/watch?v=mye9FSNw7Yo&ab_channel=FOX13Seattle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46022224426268,
+          48.7565211993717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "publisher": "YT",
+        "date": 11152021,
+        "time": 1100,
+        "title": "Sever flooding in Bellingham",
+        "image": "no",
+        "video": "yes",
+        "description": "Heavy rain and wind continues in the Pacific North West, Cars and gas stations under water in Bellingham. Over 6” of rain has fallen since Saturday wreaking havoc on the city and straining city and county workers who are out working the storm. A couple on Iowa’s street head into their business to assess the damage. Water up to 5’ deep and cars totally submerged. The wind coming in with this system could produce up to 55mph and down trees are likely. Most rivers will crest Tuesday afternoon",
+        "link": "https://www.youtube.com/watch?v=pdIvdT8Ucrk&ab_channel=LiveStormsMedia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45936393737793,
+          48.75649998008214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "publisher": "News Article",
+        "date": 11162021,
+        "time": "0159",
+        "title": "Bllingham Flood Damage ",
+        "image": "no",
+        "video": "yes",
+        "description": "After days of persistent rain and flooding, city officials started to examine the damage in Bellingham on Tuesday.",
+        "link": "https://www.seattletimes.com/seattle-news/weather/bellingham-assesses-flood-damage-begins-clean-up-and-repair/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.50047683715822,
+          48.76623162017313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "publisher": "News Article",
+        "date": 11162021,
+        "time": "0159",
+        "title": "Bllingham Flood Damage ",
+        "image": "no",
+        "description": "After days of persistent rain and flooding, city officials started to examine the damage in Bellingham on Tuesday.",
+        "link": "https://www.seattletimes.com/seattle-news/weather/bellingham-assesses-flood-damage-begins-clean-up-and-repair/",
+        "video": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4584197998047,
+          48.75300574814704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "publisher": "News Article",
+        "date": 11162021,
+        "time": 1836,
+        "title": "Flooding and Land Slide",
+        "image": "no",
+        "video": "yes",
+        "description": "Flooding and Land Slide",
+        "link": "https://www.kiro7.com/news/local/video-flooding-landslides-cause-road-closures-bellingham/bfe863c5-f0d1-4dd9-ac69-a67638d514f9/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46012032032013,
+          48.75653888210615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "publisher": "News Article",
+        "date": 11152021,
+        "time": 1931,
+        "title": "OverView of Flooding",
+        "image": "no",
+        "video": "yes",
+        "description": "A video showing a drone’s perspective on today’s flooding in areas in and around Bellingham was posted to the City’s YouTube account this evening.",
+        "link": "https://whatcom-news.com/city-of-bellingham-shares-drones-perspective-of-flooding_172010/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.50144243240355,
+          48.7656517351529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "publisher": "News Article",
+        "date": 11172021,
+        "time": 1700,
+        "title": "Businesses affected by Bellingham flooding",
+        "description": "BELLINGHAM, Wash. — One of the hardest hit areas of Bellingham was Iowa Street and Moore Street in Bellingham.",
+        "image": "no",
+        "video": "yes",
+        "link": "https://komonews.com/news/local/bellingham-businesses-hit-hard-by-flooding-employees-return-to-survey-damage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45360255241394,
+          48.75614278736258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "publisher": "Twitter",
+        "date": "01312022",
+        "time": 1206,
+        "title": "Reparing Damage by Floods",
+        "image": "yes",
+        "video": "no",
+        "description": "Work continues on roads damaged during the November floods. Here's an update on repairs on South Pass, Birch Bay Lynden, and other roads that were affected:",
+        "link": "10\tTwitter\t1312022\t12:06 PM\tReparing Damage by Floods (verified)\tworkFlood.jpeg\tno\tWork continues on roads damaged during the November floods. Here's an update on repairs on South Pass, Birch Bay Lynden, and other roads that were affected:\tCoords\thttps://twitter.com/WhatcomCoPWA/status/1488242307686150148?cxt=HHwWiMC5lc2fpqcpAAAA\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.74440765380858,
+          48.91787444914099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "publisher": "Twitter",
+        "date": "01312022",
+        "time": 1022,
+        "title": "County Executive on Flooding",
+        "image": "yes",
+        "video": "no",
+        "description": "County Executive Satpal Sidhu: \"There is no single solution that will magically fix this problem. It’s only when all stakeholders work together that meaningful and comprehensive change can happen.\"",
+        "link": "https://twitter.com/Whatcomctygov/status/1488216040999817216?cxt=HHwWgMCojdemmqcpAAAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2665023803711,
+          48.99328437970295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "publisher": "Twitter",
+        "date": 11152021,
+        "time": "0939",
+        "title": "Waters Still Rising in Whatcom County (Veri",
+        "image": "yes",
+        "description": "Waters still rising in Whatcom County. Here's the current situation in Sumas. ",
+        "video": "no",
+        "link": "https://twitter.com/nwsseattle/status/1460301372247609352"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26667404174805,
+          48.99258040485072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "publisher": "News Article",
+        "link": "https://www.q13fox.com/news/whatcom-co-braces-for-round-two-of-historic-flooding",
+        "date": "01072022",
+        "time": 2011,
+        "title": "Landslides and Road Clousers ",
+        "image": "yes",
+        "video": "no",
+        "description": "BELLINGHAM, Wash. — At least one person was missing and presumed dead as snow turned to rain and deluged the Pacific Northwest on Friday, causing flooding, landslides and avalanche danger in the mountains."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98284530639648,
+          46.719740136617226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "publisher": "News Article",
+        "date": 11282021,
+        "time": "0916",
+        "title": "Historic Flooding in Bellingham",
+        "image": "yes",
+        "video": "no",
+        "description": "Whatcom County is already bracing for another round of flooding, barely two weeks after a historic atmospheric river swept through the region.",
+        "link": "https://www.q13fox.com/news/whatcom-co-braces-for-round-two-of-historic-flooding"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4862289428711,
+          48.7791005153312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "publisher": "News Article",
+        "date": 11152021,
+        "time": 1100,
+        "title": "Excessive rain flooding",
+        "image": "yes",
+        "video": "no",
+        "description": "Heavy rainfall is flooding several City of Bellingham streets, forcing closures. City crews have been working since Sunday clearing downed trees in the roadway and blocked storm drains that worsen street flooding.",
+        "link": "https://www.whatcomtalk.com/2021/11/15/excessive-rain-flooding-city-streets-multiple-departments-respond/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44586706161499,
+          48.75169004318296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "publisher": "News Article",
+        "date": 11172021,
+        "time": 1248,
+        "title": "Nooksack River flooding",
+        "image": "yes",
+        "video": "no",
+        "description": "Most routes off the Lummi Peninsula remain unsafe due to flooding, according to Whatcom County Wednesday morning, Nov. 17.",
+        "link": "https://www.bellinghamherald.com/news/weather-news/article255834746.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.48708724975586,
+          48.847942503068026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "publisher": "YT",
+        "date": 11152021,
+        "time": 1100,
+        "title": "Mudslides and Flooding ",
+        "image": "no",
+        "video": "yes",
+        "description": "A mudslide has closed all north bound lanes just south of Bellingham. 3 vehicles were involved with minor injuries. A wall of mud slid off the saturated hill side and took with it a big tree right onto the highway smashing into the car and trucks. Tow trucks were starting to remove the vehicles tonight. South of Lynden.. the Nooksack River overflowed the dikes and flood waters poured into local houses. Many rescues were done by boat as roads were closed. Some schools are closed in Whatcom and Skagit Counties due to flooding conditions. They are expected to crest sometime tomorrow. Officials will keep everyone updated once floodwaters recede",
+        "link": "https://www.youtube.com/watch?v=UB0E0RvCKx4&ab_channel=LiveStormsMedia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35113143920897,
+          48.917987254592525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "publisher": "News Article",
+        "date": 11152021,
+        "time": 1511,
+        "title": "Schools Closed due to Flooding",
+        "image": "yes",
+        "video": "no",
+        "description": "A three-day deluge of rain drenched Whatcom County from the North Cascades to Bellingham Bay and the swollen Nooksack River flooded in several places across the lowlands, closing roads and schools and stranding some drivers in their cars.",
+        "link": "https://www.bellinghamherald.com/news/weather-news/article255828396.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.58167266845703,
+          48.8191850582372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "publisher": "News Article",
+        "video": "yes",
+        "date": 11182021,
+        "time": 1300,
+        "title": "British Columbia and Washington reeling from flooding",
+        "image": "no",
+        "description": "First they baked, then they burned, and now they’re inundated.",
+        "link": "https://www.washingtonpost.com/weather/2021/11/18/british-columbia-washington-floods-climate/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.47610092163085,
+          48.74600240601764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "publisher": "News Article",
+        "date": 11302021,
+        "time": 1631,
+        "title": "Significant flooding in Pacific Northwest, British Columbia from...",
+        "image": "no",
+        "video": "yes",
+        "description": "Parts of western Washington state and British Columbia are dealing with renewed flooding as the latest in a series of atmospheric rivers bombards the region.",
+        "link": "https://www.washingtonpost.com/weather/2021/11/30/pacific-northwest-flooding-washington-britishcolumbia/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.75436401367189,
+          48.998803197833915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "publisher": "News Article",
+        "date": "01112022",
+        "time": 1143,
+        "title": "Atmospheric river bringing new flood concerns to Washington ",
+        "image": "yes",
+        "video": "yes",
+        "description": "Several parts of Washington are undergoing disaster",
+        "link": "https://www.washingtonpost.com/weather/2022/01/11/atmospheric-river-washington-seattle/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.50202178955078,
+          48.7604890489698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "publisher": "News ArticleIS23NEXTIS24",
+        "date": 11162021,
+        "time": 1200,
+        "title": "Northwest Storm: 'Devastating' flood damage, 1 dead in BC",
+        "image": "yes",
+        "video": "yes",
+        "description": "BELLINGHAM, Wash. (AP) — As many parts of Western Washington began drying out Tuesday after a storm that dumped rain for days, waters in some areas continued rising, more people were urged to evacuate and crews worked to restore power and reopen roads.",
+        "link": "https://apnews.com/article/floods-bellingham-washington-seattle-evacuations-fc7ed53a45a33384415f8ba0dc09039e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.23526000976561,
+          49.000070187121295
+        ]
+      }
+    }
+  ]
+}
